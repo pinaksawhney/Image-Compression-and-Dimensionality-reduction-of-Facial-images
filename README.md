@@ -1,1 +1,1 @@
-# Image-Compression & Dimensionality-reduction-of-Facial-images
+# Image-Compression & Dimensionality-Reduction-of-Facial-Images
